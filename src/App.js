@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       <div className="parent"><div className="title">
-        <h1>WELCOME TO OUR LIBRARY</h1>
+        <h1>WELCOME TO OUR LIBRARY.</h1>
       </div>
         <p>Select the Subject you want to read </p>
         <div className="subContainer"><Link to="physics">
