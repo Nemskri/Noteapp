@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.parent {
+  background-image: url('./images/homebg.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+.title {
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  color: black;
+}
+
+.subContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.subs {
+  font-size: 50px;
+  color: brown;
+  font-family: fantasy;
+}

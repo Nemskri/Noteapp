@@ -1,0 +1,29 @@
+.container {
+    font-size: large;
+    background: url('../images/bg.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.c1 {
+    background-color: transparent;
+    height: 250px;
+    width: 250px;
+    border: 5px solid whitesmoke;
+    border-radius: 250px;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: 50px;
+    color: aliceblue;
+}
